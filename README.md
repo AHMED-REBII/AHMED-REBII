@@ -1,4 +1,4 @@
-<img  alt="Coding" width="full" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center"  alt="Coding" width="full" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <h1 align="center">Hi 👋, I'm Ahmed Rebii</h1>
 <h3 align="center">Embedded Telecommunications Engineering student, A Full-Stack JS Developer from Tunisia</h3>
