@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="full" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h1 align="center">Hi 👋, I'm Ahmed Rebii</h1>
 <h3 align="center">Embedded Telecommunications Engineering student, A Full-Stack JS Developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
