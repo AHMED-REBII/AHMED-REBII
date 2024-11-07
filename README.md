@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rebii</h1>
 <h3 align="center">Embedded Telecommunications Engineering student , A Full-Stack JS Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="Coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif](https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-rebii&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-rebii" /> </p>
