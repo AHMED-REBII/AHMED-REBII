@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rebii</h1>
 <h3 align="center">Embedded Telecommunications Engineering student, A Full-Stack JS Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+<img align="right" alt="Coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 
 
